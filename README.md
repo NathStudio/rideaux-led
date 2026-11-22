@@ -8,8 +8,9 @@ navigateur (Chrome / Edge), sans rien installer.
 - Une grande galerie de motifs et d'animations intégrés.
 - Créez et personnalisez vos propres dessins et animations : éditeur image par image,
   texte et emojis défilants, photos transformées en pixel art.
-- Ajoutez des motifs créés avec une **IA** : importez une image, un GIF ou un fichier,
-  l'app les convertit automatiquement pour vos rideaux.
+- **Créez des motifs avec une IA** : l'onglet « Créer avec l'IA » écrit pour vous le texte à
+  coller dans ChatGPT ou Claude, puis importe directement le motif qu'elle renvoie.
+  Une image générée par une IA peut aussi être transformée en pixel art (onglet Photo).
 - Animations qui traversent les deux rideaux, effets, couleurs, vitesse et luminosité.
 
 ## Utilisation
