@@ -3,6 +3,11 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<script>
+  // Le Bluetooth web exige https : bascule automatique (sauf sur le PC en local).
+  if (location.protocol === "http:" && !/^(localhost|127\.|\[::1\])/.test(location.hostname))
+    location.replace("https:" + location.href.slice(5));
+</script>
 <title>Mes Rideaux LED</title>
 <style>
 :root {
