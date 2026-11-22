@@ -1,7 +1,14 @@
 # Rideaux LED
 
-Application web pour piloter des rideaux LED 20×20 Bluetooth, directement dans le
-navigateur (Chrome / Edge), sans rien installer.
+Application pour piloter des rideaux LED 20×20 Bluetooth : sur **Android** (application native)
+ou directement **dans le navigateur** (Chrome / Edge), sans rien installer.
+
+## Télécharger / ouvrir
+
+- 📱 **Android 9 et plus** : [RideauxLED-1.0.apk](RideauxLED-1.0.apk) — Bluetooth natif : l'app
+  trouve tes rideaux, les **enregistre** et s'y **reconnecte toute seule** à chaque lancement.
+- 🌐 **Version web** : [nathstudio.github.io/rideaux-led](https://nathstudio.github.io/rideaux-led/)
+  (ou ouvrir `index.html`, un seul fichier).
 
 ## Points forts
 
@@ -10,12 +17,7 @@ navigateur (Chrome / Edge), sans rien installer.
   texte et emojis défilants, photos transformées en pixel art.
 - **Créez des motifs avec une IA** : l'onglet « Créer avec l'IA » écrit pour vous le texte à
   coller dans ChatGPT ou Claude, puis importe directement le motif qu'elle renvoie.
-  Une image générée par une IA peut aussi être transformée en pixel art (onglet Photo).
 - Animations qui traversent les deux rideaux, effets, couleurs, vitesse et luminosité.
-
-## Utilisation
-
-Ouvrir `index.html` — un seul fichier, rien d'autre.
 
 ## Licence
 
