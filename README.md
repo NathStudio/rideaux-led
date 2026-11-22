@@ -5,10 +5,12 @@ ou directement **dans le navigateur** (Chrome / Edge), sans rien installer.
 
 ## Télécharger / ouvrir
 
-- 📱 **Android 9 et plus** : [RideauxLED-1.0.apk](RideauxLED-1.0.apk) — Bluetooth natif : l'app
-  trouve tes rideaux, les **enregistre** et s'y **reconnecte toute seule** à chaque lancement.
-- 🌐 **Version web** : [nathstudio.github.io/rideaux-led](https://nathstudio.github.io/rideaux-led/)
-  (ou ouvrir `index.html`, un seul fichier).
+- 📱 **Android 9 et plus** : télécharger l'APK dans les
+  [**Releases**](https://github.com/NathStudio/rideaux-led/releases/latest) (compilé automatiquement par
+  GitHub) ou directement [RideauxLED.apk](RideauxLED.apk). Bluetooth natif : l'app trouve tes rideaux,
+  les **enregistre** et s'y **reconnecte toute seule** à chaque lancement.
+- 🌐 **Version web** : [portfolio.nathstudio.eu/rideaux-led](https://portfolio.nathstudio.eu/rideaux-led/)
+  (Chrome / Edge, ou ouvrir `index.html`, un seul fichier).
 
 ## Points forts
 
